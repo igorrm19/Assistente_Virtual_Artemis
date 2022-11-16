@@ -1,4 +1,6 @@
 # Assistente_Virtual_Artemis
 #SpeechRecognition 3.8.1
-#audiopy
-https://pypi.org/project/SpeechRecognition/  ==  link da biblioteca
+#audiopy 
+#vosk
+https://pypi.org/project/SpeechRecognition/  ==  link da bibliote
+https://pypi.org/project/vosk/  == biblioteca para reconhecimento de voz
