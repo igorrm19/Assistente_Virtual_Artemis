@@ -2,6 +2,7 @@
 #SpeechRecognition 3.8.1
 #audiopy 
 #vosk
+#python-espeak 0.6.3
 #pyttsx3 2.90
 https://pypi.org/project/SpeechRecognition/  ==  link da bibliote
 https://pypi.org/project/vosk/  == biblioteca para reconhecimento de voz
